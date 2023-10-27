@@ -19,4 +19,7 @@ img{
 
 html{
     font-size: 32%;
+    @media(max-width: 800px){
+        font-size: 24%;
+    }
 }
